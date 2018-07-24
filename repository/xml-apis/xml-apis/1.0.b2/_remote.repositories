@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 17:00:17 EDT 2018
+xml-apis-1.0.b2.jar>central=
+xml-apis-1.0.b2.pom>Nexus=
+xml-apis-1.0.b2.jar>Nexus=
+xml-apis-1.0.b2.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 17:01:27 EDT 2018
+google-collections-1.0.jar>jboss-enterprise-maven-repository=
+google-collections-1.0.jar>Nexus=
+google-collections-1.0.pom>jboss-enterprise-maven-repository=
+google-collections-1.0.pom>Nexus=

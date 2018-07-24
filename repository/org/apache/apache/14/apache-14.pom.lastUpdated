@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 17:01:31 EDT 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1521838597344
+https\://maven.repository.redhat.com/ga/.lastUpdated=1521838597283
+https\://maven.repository.redhat.com/ga/.error=
+http\://nexus-opentlc-shared.apps.na37.openshift.opentlc.com/repository/maven-all-public/.lastUpdated=1521838891175

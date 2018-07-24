@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 17:01:47 EDT 2018
+surefire-junit47-2.19.1.jar>central=
+surefire-junit47-2.19.1.pom>Nexus=
+surefire-junit47-2.19.1.jar>Nexus=
+surefire-junit47-2.19.1.pom>central=

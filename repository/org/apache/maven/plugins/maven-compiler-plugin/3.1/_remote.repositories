@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 16:57:29 EDT 2018
+maven-compiler-plugin-3.1.pom>Nexus=
+maven-compiler-plugin-3.1.jar>Nexus=
+maven-compiler-plugin-3.1.jar>central=
+maven-compiler-plugin-3.1.pom>central=

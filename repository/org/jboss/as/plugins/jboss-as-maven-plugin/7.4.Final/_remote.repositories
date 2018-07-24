@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 17:03:44 EDT 2018
+jboss-as-maven-plugin-7.4.Final.jar>Nexus=
+jboss-as-maven-plugin-7.4.Final.jar>central=
+jboss-as-maven-plugin-7.4.Final.pom>central=
+jboss-as-maven-plugin-7.4.Final.pom>Nexus=

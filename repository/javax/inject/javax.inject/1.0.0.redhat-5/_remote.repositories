@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 16:58:23 EDT 2018
+javax.inject-1.0.0.redhat-5.jar>jboss-enterprise-maven-repository=
+javax.inject-1.0.0.redhat-5.pom>Nexus=
+javax.inject-1.0.0.redhat-5.jar>Nexus=
+javax.inject-1.0.0.redhat-5.pom>jboss-enterprise-maven-repository=
